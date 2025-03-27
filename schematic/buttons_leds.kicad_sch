@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1c51b10d-3bd2-465f-b726-5bf4bd574453")
+	(paper "A4")
+	(title_block
+		(title "Arcade Coder")
+		(comment 1 "Reverse-engineered schematic")
+	)
+	(lib_symbols)
+)

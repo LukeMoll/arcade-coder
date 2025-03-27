@@ -377,7 +377,19 @@
   "sheets": [
     [
       "38e9fd72-6eaf-40d3-a68c-7bd5bb0639e2",
-      ""
+      "Root"
+    ],
+    [
+      "688bf626-6998-4520-8141-47af6075d93e",
+      "Buttons & LED matrix"
+    ],
+    [
+      "5377b3a9-414f-497e-98a6-d5f4fc0133de",
+      "Accelerometer"
+    ],
+    [
+      "62fc6939-4f7a-4fd8-9ac3-99f15a3952c6",
+      "Microcontroller"
     ]
   ],
   "text_variables": {}
